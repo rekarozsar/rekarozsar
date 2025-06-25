@@ -13,6 +13,7 @@
 ```javascript
 const kavics = {
   pronouns: "she" | "her",
+  iStudied: [GraphicDesign, Commerce, Programming],
   code: [Javascript, HTML, CSS, Java, Python, C#],
   tools: [React, Redux, Laravel],
   activitiesAtUni: {
