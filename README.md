@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Réka, but most know me as Kavics</p>
+<p align="left">My name is Réka, but most know me as Kavics</p>
 
 <p><em>I study at <a href="https://www.inf.elte.hu">ELTE IK</a><img src="https://media.giphy.com/media/p3jODc8SCg6H5VwSdJ/giphy.gif" width="60"></br>I volunteer at <a href="https://ikhok.elte.hu">ELTE IK HÖK</a><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTY1emJuNXQ4bmtrZDB5dXdhdG8xdXE0MXIyc2d1aThjZ2E1NXp4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/01k0M7F3MWbELEVOFX/giphy.gif" width="60"> 
 </em></p>
