@@ -21,7 +21,7 @@ const kavics = {
                         elteIk: "Academic mentor",
                         freshmanCamp: "Organizer"
                       },
- funFact: "I drew all the gifs I am using here"
+ funFact: "I drew all the gifs I am using in this README"
 }
 ```
 
