@@ -13,13 +13,14 @@
 ```javascript
 const kavics = {
   pronouns: "she" | "her",
-  iStudied: [GraphicDesign, Commerce, Programming],
+  studies: [GraphicDesign, Commerce, Programming],
+  work: [Information Security Trainee],
   code: [Javascript, HTML, CSS, Java, Python, C#],
   tools: [React, Redux, Laravel, Angular],
   activitiesAtUni: {
                         IkHok: "President of the Communication Committee",
-                        elteIk: "Academic mentor",
-                        freshmanCamp: "Organizer"
+                        elteIk: "Academic mentor and senior",
+                        freshmanCamp: "Lead organizer"
                       },
  funFact: "I drew all the gifs I am using in this README"
 }
